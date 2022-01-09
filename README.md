@@ -4,3 +4,5 @@ FullStack Online store
 - can add products to cart and purchase products\
 
 WEBSITE LINK: *WEBSITE SERVER TEMPORARLY UNDERGOING MAINTANACE, THERE ARE SNAPSHOTS OF THE WEBSITE ATTACHED*
+
+LINK TO SNAPSHOTS: https://github.com/igortascu/OnlineShop/wiki/SNAPSHOTS
